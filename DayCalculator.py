@@ -6,7 +6,7 @@ from datetime import date
 ## two dates
 ##################################################
 ## Author: Michael Zitta
-## Email: mezitta@mtu.edu
+## Email: michaelezitta@gmail.com
 ## Date Created: 02/11/2021
 ## Date Last Modified: 02/16/2021
 ##################################################
